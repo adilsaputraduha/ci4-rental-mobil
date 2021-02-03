@@ -67,7 +67,7 @@
                             <div class="services-description">
                                 <h1>FLAT UI-Interface</h1>
                                 <p>
-                                    Adminty a is first ever admin dashboard template which release in Bootstrap 4 framework. Intuitive feature rich design concept and color combination.
+                                    Adminty is first ever admin dashboard template which release in Bootstrap 4 framework. Intuitive feature rich design concept and color combination.
                                 </p>
                             </div>
                         </div>
